@@ -1,6 +1,6 @@
 # Multi-Regime Climate-Financial Risk Transmission Engine
 
-**🌐 Live Dashboard: [https://multi-regime-climate-financial-risk-transmission-engine-9f4t6w.streamlit.app](https://multi-regime-climate-financial-risk-transmission-engine-9f4t6w.streamlit.app)**
+**🌐 Live Dashboard: [https://multi-regime-climate-financial-risk-transmission-engine-9f4t6w.streamlit.app](https://multi-regime-climate-financial-risk-transmission-engine-9f4t6w.streamlit.app)
 
 **Advanced climate-financial risk engine for modeling risk transmission using regime-switching and simulation-based techniques.**
 
